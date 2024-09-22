@@ -1,3 +1,6 @@
 body{
   background-color: rgb(204, 219, 204);
 }
+.building{
+  border-radius: 50px;
+}
