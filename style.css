@@ -3,4 +3,5 @@ body{
 }
 .building{
   border-radius: 50px;
+  border: 10px solid #ff0066;
 }
